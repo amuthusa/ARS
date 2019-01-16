@@ -1,2 +1,2 @@
 Configuration file
-conf test12345
+conf test123456
